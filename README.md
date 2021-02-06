@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a skincare web-app to help avoid sensitive chemicals for acne-prone skin, and a website for my mental health organization!
 - 🌱 I’m currently learning SQL, Python and JavaScript
-- 🤔 I’m looking for help with AI/ML work! 
+- 🤔 I’m looking for advice with starting out at AI/ML work! 
 - 💬 Ask me about Entrepreneurship, Leadership, Stuff coding can't teach you!
 - 📫 How to reach me: email me at emichelle.teh@gmail.com
 - 😄 Pronouns: she/her
